@@ -1,3 +1,6 @@
 x=2
 y=3
-print (y+x)
+
+addition=x+y
+result=addition - 1
+print (result)
