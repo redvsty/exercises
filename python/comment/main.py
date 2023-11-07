@@ -1,0 +1,4 @@
+"""
+nama = comment
+print(comment)
+"""
