@@ -10,7 +10,7 @@ Tujuan dari pembuatan variabel adalah menyimpan nilai yang nantinya dapat diguna
 
 Assignment merupakan proses pemberian atau penetapan nilai pada sebuah variabel. Dalam Python, proses melakukan assignment dapat mengikuti formula berikut.
 
-Ruas Kiri = Ruas Kanan
+# Ruas Kiri = Ruas Kanan
 
 # Catatan: 
 
